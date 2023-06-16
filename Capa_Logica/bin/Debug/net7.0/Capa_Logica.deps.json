@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Capa_Logica/1.0.0": {
+        "dependencies": {
+          "Capa_Modelo": "1.0.0"
+        },
+        "runtime": {
+          "Capa_Logica.dll": {}
+        }
+      },
+      "Capa_Modelo/1.0.0": {
+        "runtime": {
+          "Capa_Modelo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Capa_Logica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Capa_Modelo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

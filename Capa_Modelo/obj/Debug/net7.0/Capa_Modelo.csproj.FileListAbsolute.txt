@@ -1,0 +1,12 @@
+C:\Users\eloye\Desktop\Quiz1_Eloy_Vidal\Capa_Modelo\bin\Debug\net7.0\Capa_Modelo.deps.json
+C:\Users\eloye\Desktop\Quiz1_Eloy_Vidal\Capa_Modelo\bin\Debug\net7.0\Capa_Modelo.dll
+C:\Users\eloye\Desktop\Quiz1_Eloy_Vidal\Capa_Modelo\bin\Debug\net7.0\Capa_Modelo.pdb
+C:\Users\eloye\Desktop\Quiz1_Eloy_Vidal\Capa_Modelo\obj\Debug\net7.0\Capa_Modelo.csproj.AssemblyReference.cache
+C:\Users\eloye\Desktop\Quiz1_Eloy_Vidal\Capa_Modelo\obj\Debug\net7.0\Capa_Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eloye\Desktop\Quiz1_Eloy_Vidal\Capa_Modelo\obj\Debug\net7.0\Capa_Modelo.AssemblyInfoInputs.cache
+C:\Users\eloye\Desktop\Quiz1_Eloy_Vidal\Capa_Modelo\obj\Debug\net7.0\Capa_Modelo.AssemblyInfo.cs
+C:\Users\eloye\Desktop\Quiz1_Eloy_Vidal\Capa_Modelo\obj\Debug\net7.0\Capa_Modelo.csproj.CoreCompileInputs.cache
+C:\Users\eloye\Desktop\Quiz1_Eloy_Vidal\Capa_Modelo\obj\Debug\net7.0\Capa_Modelo.dll
+C:\Users\eloye\Desktop\Quiz1_Eloy_Vidal\Capa_Modelo\obj\Debug\net7.0\refint\Capa_Modelo.dll
+C:\Users\eloye\Desktop\Quiz1_Eloy_Vidal\Capa_Modelo\obj\Debug\net7.0\Capa_Modelo.pdb
+C:\Users\eloye\Desktop\Quiz1_Eloy_Vidal\Capa_Modelo\obj\Debug\net7.0\ref\Capa_Modelo.dll

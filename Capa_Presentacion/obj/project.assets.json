@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Capa_Logica/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Capa_Modelo": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Capa_Logica.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Capa_Logica.dll": {}
+        }
+      },
+      "Capa_Modelo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Capa_Modelo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Capa_Modelo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Capa_Logica/1.0.0": {
+      "type": "project",
+      "path": "../Capa_Logica/Capa_Logica.csproj",
+      "msbuildProject": "../Capa_Logica/Capa_Logica.csproj"
+    },
+    "Capa_Modelo/1.0.0": {
+      "type": "project",
+      "path": "../Capa_Modelo/Capa_Modelo.csproj",
+      "msbuildProject": "../Capa_Modelo/Capa_Modelo.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Capa_Logica >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\eloye\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\eloye\\Desktop\\Quiz1_Eloy_Vidal\\Capa_Presentacion\\Capa_Presentacion.csproj",
+      "projectName": "Capa_Presentacion",
+      "projectPath": "C:\\Users\\eloye\\Desktop\\Quiz1_Eloy_Vidal\\Capa_Presentacion\\Capa_Presentacion.csproj",
+      "packagesPath": "C:\\Users\\eloye\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eloye\\Desktop\\Quiz1_Eloy_Vidal\\Capa_Presentacion\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\eloye\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\eloye\\Desktop\\Quiz1_Eloy_Vidal\\Capa_Logica\\Capa_Logica.csproj": {
+              "projectPath": "C:\\Users\\eloye\\Desktop\\Quiz1_Eloy_Vidal\\Capa_Logica\\Capa_Logica.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
